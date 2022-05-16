@@ -5,7 +5,9 @@
 > You want to copy all files from folder1 to folder 2, except one thing: some content in the file named secretfile.txt need to be hidden before sharing folder2. The program will hide this content.  
 
 ### How does it looks ?
-> ![result](video.mp4)
+> After making this video, i changed the content of the program to add folder1 and folder2 creation, and modified a bit the display. But it does a very similar job ! Just figured it was cool to add my first video to the project ;)
+
+https://user-images.githubusercontent.com/74825770/168636603-e3470f8c-3475-4fbb-8c54-95e147016d6e.mp4
 
 ### How do i use it ?
 > Program will ask for your name, then ask if you want to keep going or not. If you chose to do so, it'll go on with the previously explained task.
