@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/74825770/168636603-e3470f8c-3475-4fbb-
 > Program will ask for your name, then ask if you want to keep going or not. If you chose to do so, it'll go on with the previously explained task.
 
 ### How was it done ?
-> Using Emacs, the CLI, and Bash.
+> Using Bash, Emacs, and the CLI.
 
 ### Why ?
 > Needed to review some bash scripting concepts, so took on the quizz then the last project offered by CodeCademy to do so. Followed their plan, then changedsome of the content partially to train myself on some concepts.  
