@@ -1,12 +1,8 @@
 # First Script written from scratch 
 
 ### What does it do ?
-> You want to build a new project, you have your files stored in a folder named source.
-> You want to copy all files from folder1 to folder 2, except one thing: some content in the file named secretinfo.md needs to be hidden before sharing the newly created build folder.
-> Therefore, the program will hide this content.
-> If you want to replace any other content, simply replace the content of the sed command.
-> If you use a Mac, you'll probably need the extra  ** -i'' -e** options (sometimes it'll create, or not, a backup file. Don't forget to delete it!)
-> I added extra emoji to train myself on them.
+> You want to build a new project, you have your files stored in a folder named folder1.  
+> You want to copy all files from folder1 to folder 2, except one thing: some content in the file named secretfile.txt need to be hidden before sharing folder2. The program will hide this content.  
 
 ### How does it looks ?
 > ![result](video.mp4)
@@ -18,4 +14,6 @@
 > Using Emacs, the CLI, and Bash.
 
 ### Why ?
-> Needed to review some bash scripting concepts, so took on the quizz then the last project offered by CodeCademy to do so. Followed their plan, then changedsome of the content partially to train myself on some concepts.
+> Needed to review some bash scripting concepts, so took on the quizz then the last project offered by CodeCademy to do so. Followed their plan, then changedsome of the content partially to train myself on some concepts.  
+> I then decided it to customize it so anyone could use it and see immediately its effect by adding the creation of two empty folders (folder1 and folder2), a text file secretfile.txt, and easy-to-spot names over the project.
+> Was fun ! ;)
