@@ -17,4 +17,4 @@ https://user-images.githubusercontent.com/74825770/168636603-e3470f8c-3475-4fbb-
 
 ### Why ?
 > Needed to review some bash scripting concepts, so took on the quizz then the last project offered by CodeCademy to do so. 
-> I decided to play around to customize so deepend my understanding and for the users to see its effect as fast as possible by adding the creation of two empty folders (folder1 and folder2), a text file (secretfile.txt), and easy-to-spot names over the project.
+> I decided to play around to customize to deepend my understanding and for the users to see its effect as fast as possible by adding the creation of two empty folders (folder1 and folder2), a text file (secretfile.txt), and easy-to-spot names over the project.
