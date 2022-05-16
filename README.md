@@ -1,4 +1,4 @@
-# First Script written from scratch 
+# First Custom Script written from scratch 
 
 ### What does it do ?
 > You want to build a new project, you have your files stored in a folder named folder1.  
@@ -16,6 +16,5 @@ https://user-images.githubusercontent.com/74825770/168636603-e3470f8c-3475-4fbb-
 > Using Bash, Emacs, and the CLI.
 
 ### Why ?
-> Needed to review some bash scripting concepts, so took on the quizz then the last project offered by CodeCademy to do so. Followed their plan, then changedsome of the content partially to train myself on some concepts.  
-> I then decided it to customize it so anyone could use it and see immediately its effect by adding the creation of two empty folders (folder1 and folder2), a text file secretfile.txt, and easy-to-spot names over the project.
-> Was fun ! ;)
+> Needed to review some bash scripting concepts, so took on the quizz then the last project offered by CodeCademy to do so. 
+> I decided to play around to customize so deepend my understanding and for the users to see its effect as fast as possible by adding the creation of two empty folders (folder1 and folder2), a text file (secretfile.txt), and easy-to-spot names over the project.
