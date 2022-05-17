@@ -3,7 +3,7 @@
 
 ### What does it do ?
 > You want to build a new project, you have your files stored in a folder named folder1.  
-> You want to copy all files from folder1 to folder 2, except one thing: some content in the file named secretfile.txt need to be hidden before sharing folder2. The program will hide this content.  
+> You want to copy all files from folder1 to folder 2, except one thing: some content in the file named secretfile.txt need to be hidden before sharing folder2. The program will take care of moving the files, and hiding the secret file's content.  
 
 ### How does it looks ?
 > After making this video, i changed the content of the program to add folder1 and folder2 creation, and modified a bit the display. But it does a very similar job ! Just figured it was cool to add my first video to the project ;)
