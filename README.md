@@ -1,4 +1,5 @@
-# First Custom Script written from scratch 
+# File Manipulator
+## First Custom Script written from scratch!
 
 ### What does it do ?
 > You want to build a new project, you have your files stored in a folder named folder1.  
