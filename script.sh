@@ -1,4 +1,6 @@
 #! /bin/bash
+
+# creates two empty folders, 4 files, and write text into a secretfile:
 mkdir folder1 folder2
 touch folder1/file1 folder1/file2 folder1/file3 folder1/file4
 echo "secret_line secret_word" > folder1/secretfile.txt
@@ -32,7 +34,6 @@ then
 	echo ">>> $version is being replaced by XX for sharing purposes" 
       cp $file folder2/
       sed -n 's/secret_word/XX/g' folder2/secretfile.txt
-      # if you're on Mac, chances are that you need to see a new file named secretfile.txt-e, if you want to remove it, uncomment everything under this line:
       for new_file in folder2/*
       do
           if [ $new_file == folder2/secretfile-e.txt ]
