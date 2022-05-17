@@ -1,5 +1,6 @@
 #! /bin/bash
 mkdir folder1 folder2
+touch folder1/file1 folder1/file2 folder1/file3 folder1/file4
 echo "secret_line secret_word" > folder1/secretfile.txt
 
 # display a welcome message and store the user input into the variable "name":
@@ -46,7 +47,7 @@ then
   done
   
   echo -e "\nfolder2 now contains the following file(s):\n"
-  echo ">>> $(ls ~/Documents/Gities/bashing/first_script/folder2)"
+  ls .
   echo""
   
 elif [ $continue == "0" ]
